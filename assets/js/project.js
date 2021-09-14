@@ -23,7 +23,7 @@ const projects = [
  
   {
     title: "Diabetes Prediction Application using ML",
-    cardImage: "assets/images/project-page/Mlapp.png",
+    cardImage: "assets/images/project-page/MLapp.png",
     description: "A Machine Learning Web App created with Flask on the Heroku platform",
     Previewlink: "https://ml-diabetes-predictionapi.herokuapp.com/",
     Githublink: "https://github.com/krishnakaushik25/Diabetes-Prediction-ML-model-Deployment",
