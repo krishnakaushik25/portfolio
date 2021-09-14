@@ -100,7 +100,7 @@ const projects = [
   },
   {
     title: "Medical imaging application based on DL models.",
-    cardImage: "assets/images/project-page/Medical.jpg",
+    cardImage: "assets/images/project-page/medical.jpg",
     description:"This application can detect and categorize 6 diseases ",
     Previewlink: "https://github.com/krishnakaushik25/DL-models-medical",
     Githublink: "https://github.com/krishnakaushik25/DL-models-medical",
