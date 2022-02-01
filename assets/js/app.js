@@ -178,7 +178,7 @@ let footer = $(`
     </a>
   
 
-    <a class="social-button twitter" href="https://twitter.com/Kkk11Krishna" target="_blank">
+    <a class="social-button twitter" href="https://twitter.com/krishna11novice" target="_blank">
     <!-- SVG code for twitter icon -->
     <svg class="twitter-icon-footer" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg"
         xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 500 500" enable-background="new 0 0 500 500"
